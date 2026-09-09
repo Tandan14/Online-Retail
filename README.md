@@ -15,7 +15,6 @@ Units sold
 Average order value
 Customer analysis
 Product performance
-Cancellation analysis
 Revenue and pricing performance
 Geographic revenue performance
 Top-performing countries
@@ -31,3 +30,5 @@ Interactive dashboard navigation
 **Objective**
 
 This project aims to transform raw retail transaction data into meaningful business insights that support data-driven decision-making and help stakeholders understand sales, customers, products, and overall business performance.
+
+
