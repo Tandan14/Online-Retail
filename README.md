@@ -9,23 +9,41 @@ The project includes an interactive Excel dashboard designed to provide a clear 
 **Key Areas of Analysis**
 
 Revenue and sales performance
+
 Quarterly revenue trends
+
 Sales transaction volume
+
 Units sold
+
 Average order value
+
 Customer analysis
+
 Product performance
+
 Revenue and pricing performance
+
 Geographic revenue performance
+
 Top-performing countries
+
 Customer purchasing frequency
+
 Tools Used
+
 Microsoft Excel
+
 PivotTables
+
 Power Query
+
 Excel formulas
+
 Charts & visualizations
+
 Interactive dashboard navigation
+
 
 **Objective**
 
