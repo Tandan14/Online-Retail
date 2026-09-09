@@ -1,8 +1,8 @@
 # Online-Retail
 
-**Online Retail Sales Analysis **
+**Online Retail Sales Analysis**
 
-This project analyzes an online retail dataset to uncover key insights into sales performance, customer behavior, product performance, cancellations, pricing, and geographic revenue distribution.
+This project analyzes an online retail dataset to uncover key insights into sales performance, customer behavior, product performance, pricing, and geographic revenue distribution.
 
 The project includes an interactive Excel dashboard designed to provide a clear overview of business performance through KPIs, charts, PivotTables, and dynamic navigation.
 
