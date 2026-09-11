@@ -49,5 +49,5 @@ Interactive dashboard navigation
 
 This project aims to transform raw retail transaction data into meaningful business insights that support data-driven decision-making and help stakeholders understand sales, customers, products, and overall business performance.
 
-View Excel dashboard (https://1drv.ms/x/c/c00fe7db176c5484/IQDKEI6TlsoFRKx-NpG4UiHJASUbUb9TQdJAE7DRE4xEsos?e=4jKOfe)
+**View Excel dashboard** ➡️ (https://1drv.ms/x/c/c00fe7db176c5484/IQDKEI6TlsoFRKx-NpG4UiHJASUbUb9TQdJAE7DRE4xEsos?e=4jKOfe)
 
